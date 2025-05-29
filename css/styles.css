@@ -391,6 +391,11 @@ text-transform: uppercase;
 color: #f4f4fd;
 }
 
+.content-box {
+    display: flex;
+    align-items: baseline;
+}
+
 .container-logo {
     margin-right: 120px;
 }
