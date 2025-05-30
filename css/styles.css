@@ -31,15 +31,6 @@ padding: 0 15px;
 margin: 0 auto;
 }
 
-.footer-card {
-    max-width: 1158px;
-    padding: 0 15px;
-    margin: 0 auto;
-    display: flex;
-    align-items: baseline;
-}
-
-
 .div-container {
     padding: 32px 0;
 }
@@ -437,7 +428,10 @@ text-transform: uppercase;
 color: #f4f4fd;
 }
 
-.content-box {
+.footer-card {
+    max-width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
     display: flex;
     align-items: baseline;
 }
@@ -491,10 +485,3 @@ color: #f4f4fd;
 .footer-social-icon {
     fill: #f4f4fd;
 }
-
-
-.footer-last {
-    display: flex;
-    align-items: baseline;
-}
-
