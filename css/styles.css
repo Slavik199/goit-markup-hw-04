@@ -29,8 +29,6 @@ img {
 max-width: 1158px;
 padding: 0 15px;
 margin: 0 auto;
-display: flex;
-align-items: baseline;
 }
 
 .div-container {
@@ -298,6 +296,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 text-align: center;
+padding-bottom: 8px;
 }
 
 .icon-list {
@@ -484,4 +483,8 @@ color: #f4f4fd;
 }
 
 
+.footer-last {
+    display: flex;
+    align-items: baseline;
+}
 
